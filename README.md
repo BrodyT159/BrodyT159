@@ -14,6 +14,3 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/brody-trewartha-4651a82b2/
-
-
-- I’m currently pursueing Computer Science B.S
