@@ -3,9 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Java, and Javascript)</b>
-  - [File Upload with Protected User Registeration](https://brodyt159.github.io/User-registration/)
-- <b>Java</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [File Upload with Protected User Registeration](https://github.com/BrodyT159/User-registration)
 - <b>Python</b>
   - [ASCII Raytracing on a Sphere](https://github.com/BrodyT159/Sphere-Raytracing)
 
