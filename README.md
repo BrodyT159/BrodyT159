@@ -6,6 +6,8 @@
   - [File Upload with Protected User Registeration](https://github.com/BrodyT159/User-registration)
 - <b>Python</b>
   - [ASCII Raytracing on a Sphere](https://github.com/BrodyT159/Sphere-Raytracing)
+- <b>Cyptography (Java)</b>
+  - [Decrypting cypertext through repeating XOR](https://github.com/BrodyT159/Sphere-Raytracing)
 
 <h2>Connect with me:</h2>
 
