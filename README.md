@@ -7,7 +7,7 @@
 - <b>Python</b>
   - [ASCII Raytracing on a Sphere](https://github.com/BrodyT159/Sphere-Raytracing)
 - <b>Cyptography (Java)</b>
-  - [Decrypting Cypertext By Finding Repeating-key XOR (https://github.com/BrodyT159/Sphere-Raytracing)
+  - [Decrypting Cypertext By Finding Repeating-key XOR] (https://github.com/BrodyT159/Sphere-Raytracing)
 
 <h2>Connect with me:</h2>
 
