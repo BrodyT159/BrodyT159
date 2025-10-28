@@ -2,12 +2,13 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Java, and Javascript)</b>
-  - [File Upload with Protected User Registeration](https://github.com/BrodyT159/User-registration)
-- <b>Python</b>
-  - [ASCII Raytracing on a Sphere](https://github.com/BrodyT159/Sphere-Raytracing)
-- <b>Cyptography (Java)</b>
+
+- <b>Cryptography (Java)</b>
   - [Java Crypto Fundamentals](https://github.com/BrodyT159/BasicCryptography)
+- <b>Personal Website (HTML, CSS)</b>
+  - [Portfolio](https://github.com/BrodyT159/Portfolio-Website)
+- <b>Command-Line Crypto-Toolkit (Java)</b>
+  - [CryptoKit](https://github.com/BrodyT159/CryptoKit)
 
 <h2>Connect with me:</h2>
 
